@@ -1,0 +1,10 @@
+{
+    "jwtSecret": "aryan",
+    "GitHubClientId":"fd245575449fefeb1bfe",
+    "githubToken":"8ce3b7fbaf93d306c05e5aecb3029656d7bddb95",
+
+
+
+
+    "mongoURI": "mongodb+srv://piyu123:piyu123@devconnector.i5wcl.mongodb.net/devConnect?retryWrites=true&w=majority"
+}
